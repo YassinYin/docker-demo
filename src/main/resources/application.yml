@@ -4,3 +4,7 @@ spring:
 
 server:
   port: 9876
+
+util:
+  config:
+    test: 123
