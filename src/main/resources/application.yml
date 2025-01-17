@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: docker-spring-demo
+
+server:
+  port: 9876
